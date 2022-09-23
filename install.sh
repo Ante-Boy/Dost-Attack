@@ -69,7 +69,7 @@ git clone https://github.com/Ante-Boy/Xerxes.git
 cd ~/m4qlo/xerxes
 gcc xerxes.c -o xerxes
 cd ~/
-cp ~/dost-attack/dost /data/data/com.termux/files/usr/bin/
+cp ~/Dost-Attack/dost /data/data/com.termux/files/usr/bin/
 fi
 
 if [ $eue = 3 ] || [ $eue = 03 ]
